@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Shivam Tiwari 👋
 
-<!--
-**Shivam-38/Shivam-38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a beginner exploring the vast world of code!
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- **[Amazon Clone](https://github.com/Shivam-38/Amazon-clone-)** - Built using HTML and CSS.
+- **[BMI Calculator](https://github.com/Shivam-38/bmi-calculator)** - A health tool to calculate BMI.
+
+---
