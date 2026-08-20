@@ -3,7 +3,7 @@
 Just a beginner exploring the vast world of code!
 
 ### 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript, C++
 - **Tools:** Git, GitHub, VS Code
 
 ### 📌 Featured Projects
