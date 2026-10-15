@@ -53,15 +53,6 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project One](https://github.com/YOUR_USERNAME/project-one) | One line about what it does | HTML, CSS, JS |
-| [Project Two](https://github.com/YOUR_USERNAME/project-two) | One line about what it does | Python |
-
-> More coming soon — I'm learning by building. 🔨
-
 ---
 
 
@@ -78,9 +69,8 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shivam-tiwari-344380438/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.rt1882422@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"Every expert was once a beginner."</i> ✨</p>
