@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Year-1st%20Year-blue?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=orange" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=orange" /> -->
 </p>
 
 ---
