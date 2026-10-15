@@ -13,7 +13,7 @@
 
 - 🎓 First-year student at **[IPU]**, studying **[Computer Science and Engineering]**
 - 🌱 Currently learning: **[HTML/CSS, JavaScript, Python, Git & GitHub]**
-- 🔭 Working on: **[ScholarShield]**
+- 🔭 Working on: **[ScholarShield: AI-Driven Student Portal and Scam Shield]**
 - 🤝 Looking to collaborate on beginner-friendly open source and hackathon projects
 ---
 
