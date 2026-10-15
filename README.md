@@ -40,16 +40,6 @@
 
 ---
 
-## 📚 My Learning Journey
-
-| Topic | Status |
-|-------|--------|
-| Git & GitHub basics | ✅ Done |
-| HTML & CSS | 🔄 In progress |
-| JavaScript | 🔄 In progress |
-| Python | 🔄 In progress |
-| Data Structures & Algorithms | 📅 Up next |
-| React | 📅 Up next |
 
 ---
 
